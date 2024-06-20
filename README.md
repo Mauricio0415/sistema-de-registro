@@ -2,4 +2,6 @@
 
 - Estado del Proyecto: En construccion.
 
-- 
+para ejecutar el sistema, debes poner :
+
+``` mmp instal react ```
